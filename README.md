@@ -4,6 +4,6 @@ This course is perfect for those who want to go beyond Excel’s native function
 
 To make the learning process even smoother, we’ve integrated this course with GitHub, where you can access all course materials, code, and resources. This allows you to practice hands-on, from any machine, at any time. 
 
-The branches are structured to correspond to the videos in the course. The naming convention is SECTION#_CLASS#. As an example, the branch named 02_03 corresponds to the second SECTION and the third video or CLASS.
+The notebooks are structured to correspond to the videos in the course. The naming convention is SECTION#_CLASS#. For example, folder 02_03 corresponds to the notebook for the second SECTION and the third CLASS.
 
 Instructors.
