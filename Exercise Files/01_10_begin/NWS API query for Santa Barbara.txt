@@ -1,1 +1,0 @@
-https://aviationweather.gov/api/data/metar?ids=KSBA&format=json&taf=false&hours=1000
