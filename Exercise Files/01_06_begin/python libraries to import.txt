@@ -1,0 +1,15 @@
+# building data models
+import pandas as pd
+import pandas as pd
+
+# algorithms
+from scipy.cluster.hierarchy import linkage	# dendrogram for hierarchical clustering
+from statsmodels.tsa.seasonal import seasonal_decompose	# time series decomposition
+from sklearn.linear_model import LogisticRegression	# logistic regression
+from sklearn.preprocessing import StandardScaler	# logistic regression
+from sklearn.cluster import KMeans	# KMeans clustering
+from sklearn.cluster import DBSCAN	# anomaly detection
+
+# visualizations
+import seaborn as sns
+import matplotlib.pyplot as plt
